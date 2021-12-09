@@ -1,0 +1,20 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+#card-body {
+  width: 33%;
+  text-align: center;
+}
+
+#card-background {
+  display: flex;
+  background-image: url('/images/pattern-background-desktop.svg');
+  background-size: contain;
+  background-repeat: repeat;
+  justify-content: center;
+}
